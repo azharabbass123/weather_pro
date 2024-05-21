@@ -3,7 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## You can search weather update of any city just by typing city name in search bar.
 ![Opera Snapshot_2024-05-21_150403_localhost](https://github.com/azharabbass123/weather_pro/assets/120394466/61170d95-361f-4904-9d32-19645c58a78b)
+
+
 ![Opera Snapshot_2024-05-21_150311_localhost](https://github.com/azharabbass123/weather_pro/assets/120394466/925da9f8-bf55-4456-95b8-452476c1b0ea)
+
+
 ![Opera Snapshot_2024-05-21_145946_localhost](https://github.com/azharabbass123/weather_pro/assets/120394466/47db02f1-23ad-4b5d-96ea-344a756c6664)
 
 
